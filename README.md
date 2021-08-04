@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Fogliapiangentedelnord
+- 👀 I’m interested in every nerdy thing
+- 🌱 I’m currently learning python, arduino, electronics,...
+- 💞️ I’m looking to collaborate on projects 
+- 📫 How to reach me, via e-mail
